@@ -1,3 +1,4 @@
+![logo](https://github.com/sachinprajapati02/sachinprajapati02/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sachin Prajapati</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
